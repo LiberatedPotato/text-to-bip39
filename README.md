@@ -1,5 +1,5 @@
 # BIP-39 Seed Phrase Converter
-This is a simple desktop application that converts arbitrary English words into BIP-39-compatible seed phrases using SHA-256 hashing. It features a graphical user interface (GUI) built with [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter).
+This is a simple desktop application that converts arbitrary 12/24 word sentences into a BIP-39-compatible seed phrase using SHA-256 hashing. It features a graphical user interface (GUI) built with [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter).
 
 ## Features
 
